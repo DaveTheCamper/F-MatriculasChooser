@@ -1,0 +1,7 @@
+MatriculaChooser/
+__pycache__/
+*.pyc
+.idea/
+.venv/
+.claude/
+dados/planejamento.json
