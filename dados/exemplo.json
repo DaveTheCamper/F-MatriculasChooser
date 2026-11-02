@@ -1,0 +1,37 @@
+{
+  "disciplinas": [
+    {"nome": "Compiladores", "codigo": "COMP", "prioridade": 4, "turmas": [
+      {"identificacao": "CIC1P0613N0180", "horarios": [{"dia": "TERCA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Complexidade de Algoritmos e Avaliação de Desempenho", "codigo": "CAAD", "prioridade": 5, "turmas": [
+      {"identificacao": "CIC1P0813N0182", "horarios": [{"dia": "QUARTA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Desenvolvimento para Dispositivos Móveis", "codigo": "DDM", "prioridade": 3, "turmas": [
+      {"identificacao": "CIC1P0413N0178", "horarios": [{"dia": "SEXTA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Desenvolvimento para Web", "codigo": "DWEB", "prioridade": 2, "turmas": [
+      {"identificacao": "CIC1P0413N0178", "horarios": [{"dia": "TERCA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Gestão de Projetos", "codigo": "GP", "prioridade": 3, "turmas": [
+      {"identificacao": "CIC1P0813N0182", "horarios": [{"dia": "SEGUNDA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Programação Orientada a Objetos", "codigo": "POO", "prioridade": 5, "turmas": [
+      {"identificacao": "CIC1P0213N0176", "horarios": [{"dia": "QUINTA", "inicio": "19:00", "termino": "22:00"}]},
+      {"identificacao": "CIC1P0213N0176A", "horarios": [{"dia": "QUINTA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Redes de Computadores", "codigo": "REDES", "prioridade": 2, "turmas": [
+      {"identificacao": "CIC1P0613N0180", "horarios": [{"dia": "QUARTA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Sistemas Distribuídos", "codigo": "SD", "prioridade": 1, "turmas": [
+      {"identificacao": "CIC1P0613N0180", "horarios": [{"dia": "SEXTA", "inicio": "19:00", "termino": "22:00"}]}
+    ]},
+    {"nome": "Sistemas Operacionais", "codigo": "SO", "prioridade": 4, "turmas": [
+      {"identificacao": "CIC1P0413N0178", "horarios": [{"dia": "SABADO", "inicio": "14:00", "termino": "15:30"}]}
+    ]}
+  ],
+  "preferencias": {
+    "turnos_preferidos": ["NOITE"],
+    "distribuicao": "EQUILIBRADA",
+    "quantidade_minima_disciplinas": 5
+  }
+}
